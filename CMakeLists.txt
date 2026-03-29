@@ -7,4 +7,4 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 set(CMAKE_CXX_FLAGS_RELEASE "-O3 -march=native -DNDEBUG")
 
-add_executable(heat_diffusion main.cpp)
+add_executable(serial serial.cpp)
