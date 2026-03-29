@@ -1,3 +1,0 @@
-/home/kenn/Code/heat/build/CMakeFiles/heat_diffusion.dir
-/home/kenn/Code/heat/build/CMakeFiles/edit_cache.dir
-/home/kenn/Code/heat/build/CMakeFiles/rebuild_cache.dir
