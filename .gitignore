@@ -39,3 +39,33 @@
 
 # debug information files
 *.dwo
+
+# Editors configs
+.vscode
+*.swp
+*.swo
+compile_commands.json
+
+# Build directories
+build
+release
+debug
+
+# Python binding
+nanobind_test.egg-info
+_skbuild
+/dist
+__pycache__
+.cache
+*.pyd
+*.egg-info
+pyenv
+
+# Doxygen documentation
+*.html
+*.js
+*.tex
+*.svg
+*.png
+*.css
+*.sty
