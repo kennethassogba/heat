@@ -45,3 +45,8 @@ Understand deadlock, load balancing.
 - HIP: Move the calculation to the GPU. Write a kernel that runs the averaging
 formula on thousands of GPU threads simultaneously.
 Manage memory transfers between the CPU and GPU.
+
+## LSP
+
+in build/
+cmake -DCMAKE_EXPORT_COMPILE_COMMANDS=1
